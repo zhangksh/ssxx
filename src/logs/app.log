@@ -1,0 +1,81 @@
+2025-11-25 14:01:52,350 - INFO - FakeTensor cache stats:
+2025-11-25 14:01:52,355 - INFO -   cache_hits: 0
+2025-11-25 14:01:52,355 - INFO -   cache_misses: 0
+2025-11-25 14:01:52,355 - INFO -   cache_misses: 0
+2025-11-25 14:01:52,354 - INFO -   cache_hits: 0
+2025-11-25 14:01:52,357 - INFO -   cache_misses: 0
+2025-11-25 14:05:14,163 - INFO - start request received:
+ listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=20 modelTypes=['floating']
+2025-11-25 14:05:14,164 - INFO - start response send: 
+messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1764050714164216000)]
+2025-11-25 14:05:15,762 - INFO - start task:1764050714164216000
+2025-11-25 14:05:20,629 - INFO - alarm detected:
+count:1
+streamId:1764050714164216000
+alarm:floating
+url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-25 14:05:20,654 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-25 14:06:05,948 - INFO - alarm detected:
+count:2
+streamId:1764050714164216000
+alarm:floating
+url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-25 14:06:05,967 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-25 15:02:45,323 - INFO - start request received:
+ listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=20 modelTypes=['floating']
+2025-11-25 15:02:45,323 - INFO - start response send: 
+messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1764054165323857000)]
+2025-11-25 15:02:46,323 - INFO - start task:1764054165323857000
+2025-11-25 15:02:50,668 - INFO - alarm detected:
+count:1
+streamId:1764054165323857000
+alarm:floating
+url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-25 15:02:50,693 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-25 15:03:35,446 - INFO - alarm detected:
+count:2
+streamId:1764054165323857000
+alarm:floating
+url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-25 15:03:35,466 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-25 15:08:07,283 - INFO - start request received:
+ listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=20 modelTypes=['floating']
+2025-11-25 15:08:07,284 - INFO - start response send: 
+messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1764054487284077300)]
+2025-11-25 15:08:07,515 - INFO - start task:1764054487284077300
+2025-11-25 15:08:07,518 - INFO - task wrong:['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4']: No connection adapters were found for 'C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'
+2025-11-25 15:08:12,520 - INFO - task done:1764054487284077300
+2025-11-25 15:10:31,221 - INFO - start request received:
+ listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=20 modelTypes=['floating']
+2025-11-25 15:10:31,222 - INFO - start response send: 
+messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1764054631222968300)]
+2025-11-25 15:10:32,775 - INFO - start task:1764054631222968300
+2025-11-25 15:10:32,780 - INFO - task wrong:['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4']: No connection adapters were found for 'C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'
+2025-11-25 15:12:12,623 - INFO - start request received:
+ listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\test_video.mp4'] time=20 modelTypes=['floating']
+2025-11-25 15:12:12,624 - INFO - start response send: 
+messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\test_video.mp4', detectId=1764054732624426400)]
+2025-11-25 15:12:14,844 - INFO - start task:1764054732624426400
+2025-11-25 15:12:19,355 - INFO - alarm detected:
+count:1
+streamId:1764054732624426400
+alarm:floating
+url: C:\Users\86177\Desktop\workstation\detect\test_video.mp4
+2025-11-25 15:12:19,380 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\test_video.mp4
+2025-11-25 15:13:27,980 - INFO - start request received:
+ listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\test_video.mp4'] time=20 modelTypes=['floating']
+2025-11-25 15:13:27,981 - INFO - start response send: 
+messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\test_video.mp4', detectId=1764054807981197300)]
+2025-11-25 15:13:31,437 - INFO - start task:1764054807981197300
+2025-11-25 15:13:35,744 - INFO - alarm detected:
+count:1
+streamId:1764054807981197300
+alarm:floating
+url: C:\Users\86177\Desktop\workstation\detect\test_video.mp4
+2025-11-25 15:13:35,769 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\test_video.mp4
+2025-11-25 15:14:20,041 - INFO - alarm detected:
+count:2
+streamId:1764054807981197300
+alarm:floating
+url: C:\Users\86177\Desktop\workstation\detect\test_video.mp4
+2025-11-25 15:14:20,061 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\test_video.mp4

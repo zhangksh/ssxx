@@ -1,0 +1,107 @@
+2025-11-20 15:37:17,483 - INFO - start request received: listStreamings=['string'] time=0 modelTypes=['string']
+2025-11-20 15:37:17,486 - INFO - start response send: messageCode='success' record=[Record(streaming='string', detectId=1763624237486241700)]
+2025-11-20 15:37:18,406 - INFO - start task:1763624237486241700
+2025-11-20 15:37:18,446 - INFO - start process task:1763624237486241700
+2025-11-20 15:37:18,447 - INFO - task done:1763624237486241700
+2025-11-20 19:37:43,761 - INFO - start request received: listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=10 modelTypes=['floating']
+2025-11-20 19:37:43,762 - INFO - start response send: messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1763638663761937500)]
+2025-11-20 19:37:47,157 - INFO - start task:1763638663761937500
+2025-11-20 19:37:47,409 - INFO - start process task:1763638663761937500
+2025-11-20 19:37:53,353 - INFO - objects detected:floating in url: [[[160 168 151]
+  [158 166 149]
+  [157 165 148]
+  ...
+  [102 136 124]
+  [104 135 124]
+  [104 135 124]]
+
+ [[160 168 151]
+  [160 168 151]
+  [158 166 149]
+  ...
+  [102 136 124]
+  [105 136 125]
+  [104 135 124]]
+
+ [[161 169 152]
+  [160 168 151]
+  [160 168 151]
+  ...
+  [109 143 131]
+  [111 142 131]
+  [111 142 131]]
+
+ ...
+
+ [[ 74 199 179]
+  [ 75 200 180]
+  [ 80 200 181]
+  ...
+  [114 143 137]
+  [114 143 137]
+  [114 143 137]]
+
+ [[ 84 202 183]
+  [ 83 201 182]
+  [ 84 199 181]
+  ...
+  [113 142 136]
+  [113 142 136]
+  [113 142 136]]
+
+ [[ 81 199 180]
+  [ 80 198 179]
+  [ 79 194 176]
+  ...
+  [113 142 136]
+  [113 142 136]
+  [113 142 136]]]
+2025-11-20 19:44:25,048 - INFO - start request received: listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=5 modelTypes=['floating']
+2025-11-20 19:44:25,049 - INFO - start response send: messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1763639065049826800)]
+2025-11-20 19:44:28,204 - INFO - start task:1763639065049826800
+2025-11-20 19:44:28,380 - INFO - start process task:1763639065049826800
+2025-11-20 19:44:32,767 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:44:53,848 - INFO - task wrong:['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4']: HTTPConnectionPool(host='10.120.24.109', port=8082): Max retries exceeded with url: /admin/ai/iotAiAlarmRecord/recieveAiAlarmData (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B2DF95E810>, 'Connection to 10.120.24.109 timed out. (connect timeout=None)'))
+2025-11-20 19:44:58,850 - INFO - task done:1763639065049826800
+2025-11-20 19:50:06,443 - INFO - start request received: listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=5 modelTypes=['floating']
+2025-11-20 19:50:06,444 - INFO - start response send: messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1763639406444922500)]
+2025-11-20 19:50:09,519 - INFO - start task:1763639406444922500
+2025-11-20 19:50:09,694 - INFO - start process task:1763639406444922500
+2025-11-20 19:50:14,117 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:50:14,117 - INFO - task wrong:['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4']: Task.send_response() missing 1 required positional argument: 'stream'
+2025-11-20 19:50:19,158 - INFO - task done:1763639406444922500
+2025-11-20 19:51:45,907 - INFO - start request received: listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=5 modelTypes=['floating']
+2025-11-20 19:51:45,908 - INFO - start response send: messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1763639505908808200)]
+2025-11-20 19:51:49,672 - INFO - start task:1763639505908808200
+2025-11-20 19:51:49,848 - INFO - start process task:1763639505908808200
+2025-11-20 19:51:54,307 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:51:54,307 - INFO - task wrong:['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4']: name 'mode' is not defined
+2025-11-20 19:51:59,353 - INFO - task done:1763639505908808200
+2025-11-20 19:52:40,058 - INFO - start request received: listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=5 modelTypes=['floating']
+2025-11-20 19:52:40,059 - INFO - start response send: messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1763639560059688200)]
+2025-11-20 19:52:43,647 - INFO - start task:1763639560059688200
+2025-11-20 19:52:43,823 - INFO - start process task:1763639560059688200
+2025-11-20 19:52:48,288 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:52:48,313 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:52:55,199 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:52:55,217 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:53:01,187 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:53:01,210 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:53:14,306 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:53:14,325 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:53:19,670 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:53:19,689 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:53:30,506 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:53:30,526 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:55:13,470 - INFO - start request received: listStreamings=['C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4'] time=10 modelTypes=['floating']
+2025-11-20 19:55:13,471 - INFO - start response send: messageCode='success' record=[Record(streaming='C:\\Users\\86177\\Desktop\\workstation\\detect\\DJI_20250710173139_0001_V_1.mp4', detectId=1763639713471570700)]
+2025-11-20 19:55:16,321 - INFO - start task:1763639713471570700
+2025-11-20 19:55:16,497 - INFO - start process task:1763639713471570700
+2025-11-20 19:55:20,868 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:55:20,893 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:55:27,477 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:55:27,501 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:55:43,147 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:55:43,166 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:55:58,097 - INFO - alarm:floating	url: C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4
+2025-11-20 19:55:58,116 - INFO - alarm send: floating	url:C:\Users\86177\Desktop\workstation\detect\DJI_20250710173139_0001_V_1.mp4

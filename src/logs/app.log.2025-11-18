@@ -1,0 +1,16 @@
+2025-11-18 14:40:31,498 - INFO - start request received: listStreamings=['string'] time='string' modelTypes=['string']
+2025-11-18 14:40:31,499 - INFO - start response send: messageCode='success' record=[Record(streaming='string', detectId=1763448031499503200)]
+2025-11-18 14:40:35,514 - INFO - start task:1763448031499503200
+2025-11-18 14:40:35,556 - INFO - task done:1763448031499503200
+2025-11-18 17:12:52,687 - INFO - start request received: listStreamings=['string'] time=0 modelTypes=['string']
+2025-11-18 17:12:52,688 - INFO - start response send: messageCode='success' record=[Record(streaming='string', detectId=1763457172688353600)]
+2025-11-18 17:12:57,642 - INFO - start task:1763457172688353600
+2025-11-18 17:12:57,647 - INFO - start process task:1763457172688353600
+2025-11-18 17:12:57,650 - INFO - task done:1763457172688353600
+2025-11-18 17:13:15,651 - INFO - state request received: detectId=['string']
+2025-11-18 17:13:15,652 - INFO - state response send: messageCode=[MessageCode(detectId='string', state=False)]
+2025-11-18 18:34:38,399 - INFO - start request received: listStreamings=['string'] time=0 modelTypes=['string']
+2025-11-18 18:34:38,400 - INFO - start response send: messageCode='success' record=[Record(streaming='string', detectId=1763462078400542100)]
+2025-11-18 18:34:38,430 - INFO - start task:1763462078400542100
+2025-11-18 18:34:38,468 - INFO - start process task:1763462078400542100
+2025-11-18 18:34:38,468 - INFO - task done:1763462078400542100
